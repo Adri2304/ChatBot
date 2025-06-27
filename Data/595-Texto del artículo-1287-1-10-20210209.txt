@@ -1,0 +1,837 @@
+DOI: 10.26820/reciamuc/5.(1).ene.2021.78-89
+URL: https://reciamuc.com/index.php/RECIAMUC/article/view/595
+EDITORIAL: Saberes del Conocimiento
+REVISTA: RECIAMUC
+ISSN: 2588-0748
+TIPO DE INVESTIGACIÓN: Artículo de Revisión
+CÓDIGO UNESCO: 32 Ciencias Médicas
+PAGINAS: 78-89
+
+Diagnóstico y tratamiento de la gonorrea
+Diagnosis and treatment of gonorrea
+Diagnóstico e tratamento da gonorreia
+José Miguel Villacís Nieto1; Fátima Liliana Gavilanes Dávila2; Alexander Jamil Valencia Intriago3;
+Joselyn Ismenia Jiménez Campusano4
+RECIBIDO: 10/12/2020 ACEPTADO: 29/12/2020 PUBLICADO: 31/01/2021
+1. Médico; Investigador Independiente; Guayaquil, Ecuador; jmvn06@hotmail.com;
+https://orcid.org/00000002-3259-737X
+2. Médico; Investigadora Independiente; Guayaquil, Ecuador; fatimagavilanes040892@gmail.com;
+https://orcid.org/0000-0003-0154-2779
+3. Médico; Investigador Independiente; Guayaquil, Ecuador; jamilvalencia@hotmail.es;
+https://orcid.org/00000002-5036-983X
+4. Médico; Investigadora Independiente; Guayaquil, Ecuador; ismeniajimenez22@gmail.com;
+https://orcid.
+org/0000-0001-9798-0786
+
+CORRESPONDENCIA
+José Miguel Villacís Nieto
+jmvn06@hotmail.com
+
+Guayaquil, Ecuador
+© RECIAMUC; Editorial Saberes del Conocimiento, 2020
+
+RESUMEN
+La gonorrea es registrada como la segunda ITS más comúnmente contagiada a nivel mundial. Su propagación es mediante cualquier tipo de actividad sexual o contacto con el pene, la vagina, el ano, la uretra, e incluso, con la boca, la garganta
+o los ojos. Pueden padecerla cualquier persona, en especial, las sexualmente activas, que usualmente están comprendidas por aquellas con edades entre los 15 a 24 años, aunque igualmente existen riesgos de contagio en mujeres de 25 o
+más años de edad que tiene una nueva pareja sexual o varias parejas sexuales, o una pareja sexual con una infección de
+transmisión sexual; u hombres homosexuales o bisexuales. Su agente etiológico es la bacteria Neisseria Gonorrhoeae. El
+interés por desarrollar el presente estudio es el de recopilar fuentes cientificoacadémicas recientes a fines exponer sobre
+la el diagnóstico y el tratamiento de la gonorrea, con la finalidad de aportar un nuevo material útil tanto para el fortalecimiento del conocimiento médico científico como para que sirva de sustento en posteriores estudios e torno a la temática
+planteada. En ese sentido, se acordó desarrollar una investigación con diseño bibliográfico en el marco de una metodología de revisión. Con resultados, se ha logrado recabar la evidencia necesaria para exponer fundadamente sobre la gonorrea, aspectos generales, síntomas, complicaciones, resistencia antimicrobiana, diagnóstico y tratamiento. Se concluye
+que el diagnóstico de la gonorrea se efectúa en base a pruebas o exámenes que pueden consistir en: evaluación microscópica, cultivos de agentes patógenos, exámenes de ADN, pruebas de amplificación de los ácidos nucleicos (NAAT),
+entre otros. En cuanto al tratamiento de la gonorrea, en general, existe total coincidencia respecto a la administración de
+antibióticos combinados tales como: Ceftriaxona, cefpodoxima, doxiciclin, ciprofloxacina y Azitromicina, exceptuando el
+uso de la gentamicina y gemifloxacina, en casos de que el paciente a tratar sea alérgico a la Cefalosporina (Ceftriaxona).
+Palabras clave: Actividad Sexual, ITS, Cervicitis, Gonocócica, Uretritis.
+
+ABSTRACT
+Gonorrhea is registered as the second most common STI spread worldwide. Its spread is through any type of sexual activity or contact with the penis, vagina, anus, urethra, and even with the mouth, throat or eyes. It can be suffered by anyone,
+especially those who are sexually active, which are usually comprised of those aged 15 to 24 years, although there are
+also risks of contagion in women 25 years of age or older who have a new sexual partner or several sexual partners, or a
+sexual partner with a sexually transmitted infection; or gay or bisexual men. Its etiological agent is the bacterium Neisseria
+Gonorrhoeae. The interest in developing this study is to compile recent scientific and academic sources in order to expose
+on the diagnosis and treatment of gonorrhea, in order to provide new material useful both for the strengthening of scientific
+medical knowledge and to serve as a support in subsequent studies around the issue raised. In this sense, it was agreed
+to develop a research with bibliographic design within the framework of a review methodology. With results, it has been
+possible to gather the necessary evidence to explain gonorrhea, general aspects, symptoms, complications, antimicrobial
+resistance, diagnosis and treatment. It is concluded that the diagnosis of gonorrhea is made based on tests or examinations that may consist of: microscopic evaluation, cultures of pathogens, DNA examinations, nucleic acid amplification
+tests (NAAT), among others. Regarding the treatment of gonorrhea, in general, there is total agreement regarding the
+administration of combined antibiotics such as: Ceftriaxone, cefpodoxime, doxycyclin, ciprofloxacin and Azithromycin, except for the use of gentamicin and gemifloxacin, in cases where the patient treat is allergic to Cephalosporin (Ceftriaxone).
+KeyWords: Sexual Activity, STI, Cervicitis, Gonococcal, Urethritis.
+
+RESUMO
+A gonorreia está registada como a segunda DST mais comum a nível mundial. A sua propagação é através de qualquer
+tipo de actividade sexual ou contacto com o pénis, vagina, ânus, uretra, e mesmo com a boca, garganta ou olhos. Pode
+ser sofrida por qualquer pessoa, especialmente as que são sexualmente activas, que são geralmente compostas por pessoas com idades compreendidas entre os 15 e os 24 anos, embora também haja riscos de contágio em mulheres com 25
+anos ou mais que tenham um novo parceiro sexual ou vários parceiros sexuais, ou um parceiro sexual com uma infecção
+sexualmente transmissível; ou homens homossexuais ou bissexuais. O seu agente etiológico é a bactéria Neisseria Gonorrhoeae. O interesse em desenvolver este estudo é compilar fontes científicas e académicas recentes a fim de expor sobre
+o diagnóstico e tratamento da gonorreia, a fim de fornecer novo material útil tanto para o fortalecimento do conhecimento
+médico científico como para servir de apoio em estudos subsequentes em torno da questão levantada. Neste sentido, foi
+acordado desenvolver uma investigação com desenho bibliográfico no âmbito de uma metodologia de revisão. Com os
+resultados, foi possível reunir as provas necessárias para explicar a gonorreia, aspectos gerais, sintomas, complicações,
+resistência antimicrobiana, diagnóstico e tratamento. Conclui-se que o diagnóstico da gonorreia é feito com base em
+testes ou exames que podem consistir em: avaliação microscópica, culturas de agentes patogénicos, exames de ADN,
+testes de amplificação de ácidos nucleicos (NAAT), entre outros. Relativamente ao tratamento da gonorreia, em geral,
+existe total concordância em relação à administração de antibióticos combinados, tais como: Ceftriaxona, cefpodoxima,
+doxiciclina, ciprofloxacina e azitromicina, excepto para a utilização de gentamicina e gemifloxacina, nos casos em que o
+tratamento do paciente é alérgico à Cefalosporina (Ceftriaxona).
+Palavras-chave: Actividade Sexual, DST, Cervicite, Gonocócica, Uretrite.
+
+VILLACÍS NIETO, J. M., GAVILANES DÁVILA, F. L., VALENCIA INTRIAGO, A. J., & JIMÉNEZ CAMPUSANO, J. I.
+
+Introducción
+Las infecciones de transmisión sexual (ITS),
+conforme al aporte de Díez & Díaz (2011),
+abarcan un catálogo de patologías, de múltiple etiología infecciosa, en las que, desde
+una perspectiva epidemiológica, la transmisión sexual resulta ser importante, pese
+a que eventualmente se den otros modos
+de contaminación, tales como: el contagio
+perinatal o por transmisión parenteral. Adicionalmente aclaran que la terminología
+supone la condición asintomática debido
+a que, paralelamente, podría coexistir con
+la ocurrencia de lesiones subclínicas con
+iguales o mayores capacidades de propagación, de allí entonces la distinción de “infecciones” en lugar de “enfermedades” de
+transmisión sexual.
+Los agentes etiológicos de las ITS tienen como único reservorio al hombre. La
+transmisión se realiza a partir de las personas infectadas (con formas clínicas
+agudas, crónicas o asintomáticas) y se
+produce por contacto directo, de persona a persona durante la relación sexual.
+La susceptibilidad es general y, a excepción de las hepatitis víricas, los episodios
+pasados no dejan inmunidad, por lo que
+persiste la posibilidad de reinfección
+ante una nueva exposición, incluyendo
+la reinfección desde la propia pareja si
+no se trata a ambos.
+Las manifestaciones más frecuentes de la
+ITS son locales, en el sistema genitourinario,
+aunque no son infrecuentes las manifestaciones generales y de otros órganos. (Díez
+& Díaz, 2011, pág. 59)
+Según Rodríguez et al. (2020), la prevalencia de varias ITS virales todavía se encuentran elevadas. Así mismo se estima que la
+incidencia de las ITS se ubicará en millón
+de infecciones al día. Quiza es por éstas
+rezones que las ITS aún se considera un
+problema de salud pública que a nivel mundial continúa en aumento. Con base en estos y otros datos, los expertos sostuvieron
+80
+
+que son 357 millones de personas entre los
+15 y 49 años de edad las que se estima se
+contagiarán anualmente con alguna ITS, y
+mayormente será de alguna de las cuatro
+ITS que son curables, estando entre ellas la
+infección con Neisseria gonorrhoeae (NG),
+de las que calcular se infectarán 78 millones de personas.
+Una de las infecciones de transmisión sexual (ITS) más comunes es la gonorrea.
+Esta puede ocurrir indistintamente en hombres o mujeres sexualmente activos, que
+usualmente tienen edades comprendidas
+entre los 15 a 24 años. También existen riesgos de contagio; en mujeres de 25 o más
+años de edad que tiene una nueva pareja
+sexual o varias parejas sexuales, o una pareja sexual con una infección de transmisión sexual; o en hombres homosexuales o
+bisexuales. Esta infección comúnmente se
+presenta con lesiones características en los
+genitales, en el recto y/o en la garganta. Su
+forma de transmisión es mediante las relaciones sexuales anales, vaginales u orales
+sin protección; de madre a hijo (durante el
+parto) (Centros para el control y a prevención de enfermedades de los Estados Unidos de América – CDC, 2016)
+La Oficina para la Salud de la Mujer (OWH,
+por sus siglas en inglés) con sede también
+en los Estados Unidos de América (USA),
+hace referencia a la bacteria Neisseria Gonorrhoeae como el agente etiológico de la
+gonorrea. Además, indican que esta enfermedad afecta principalmente a las mujeres de entre 15 y 24 años, pero también se
+está volviendo común en mujeres mayores.
+También dejan ver que, particularmente en
+mujeres, esta complicación puede resultar
+en un grave problema, por la posibilidad de
+que ocurra un daño en sus órganos reproductivos. (OWH, 2019)
+El diagnóstico se basa en el examen microscópico, el cultivo o las técnicas de
+amplificación de ácidos nucleicos. El
+tratamiento puede realizarse con diversos antibióticos por vía oral o parenteral,
+
+RECIMAUC VOL. 5 Nº 1 (2021)
+
+DIAGNÓSTICO Y TRATAMIENTO DE LA GONORREA
+
+pero la resistencia farmacológica constituye un problema creciente. (Morris,
+2019)
+
+ponible. Esto, también se ha considerado
+parte importante de los resultados esperados.
+
+De todo lo anterior es que ha surgido el interés por desarrollar el presente estudio, cuyo
+objetivo es el de recopilar fuentes cientificoacadémicas recientes a fines exponer
+sobre la infección a causa de la bacteria
+Neisseria Gonorrhoeae, así como también
+el diagnóstico y el tratamiento de la enfermedad.
+
+Principalmente se realiza una búsqueda
+consecutiva en las mencionadas bases de
+datos, usando la conjugación de palabras
+clave, operadores lógicos, sintácticos y de
+truncamiento, con los que se configuró la
+expresión “Gonorrea AND diagno* AND tratamiento~”. Los resultados fueron variables
+ya que se obtuvieron entre 3 y 736 registros
+(enlaces) a distintos repositorios digitales.
+Éstos mismos datos hubo que, necesariamente, irse refinando; principalmente en
+base a criterios de: fecha de publicación
+(2010 -2021), idioma (español-inglés) y correlación temática, sin menoscabo de aplicar otros métodos de perfilamientos disponibles especialmente en cada plataforma
+de búsqueda; con la finalidad ir precisando
+solamente aquellos que favorecieran el objeto de la temática planteada.
+
+En la siguiente sección, se procederá a indicar los materiales y metodología utilizada
+durante el proceso investigativo; luego, en
+el apartado de los Resultados, se hará referencia e interpretarán las disertaciones de
+especialistas y tratadistas entorno al diagnóstico y tratamiento de la Gonorrea, así
+como también sobre otros aspectos interesantes como síntomas y complicaciones
+de la Gonorrea y resistencia antimicrobiana,
+aclarando anticipadamente que tal desarrollo representa una parte muy valiosa del
+total de la evidencia encontrada en la presente revisión.
+Materiales y Métodos
+Computadores personales con conexión a
+internet y otros tipos de contenidos científico académicos disponibles de forma física,
+constituyen los materiales y/o herramientas
+exclusivamente utilizados para el desarrollo
+del presente estudio, con los cuales que se
+procuró generar un nuevo aporte en relación al diagnóstico y tratamiento de la gonorrea.
+El enfoque de la presente investigación es
+la búsqueda y revisión de bibliografía que
+pueda hallarse en bases de datos, tales
+como: Biblioteca Virtual de la Salud (BVS);
+MedlinePlus; PubMed; BASE; entre otras; y
+en la biblioteca de la propia Casa de Estudios, considerando que, la suma de todos
+estos procesos configura parte esencial del
+presente estudio, por cuanto favorece las
+posibilidades de poder escoger y sintetizar
+entre las mejores fuentes de evidencia dis-
+
+Para la preselección del material bibliográfico físicamente disponible, en esencia, se
+adoptó el mismo criterio metodológico antes descrito, solo considerando algunas
+adaptaciones necesarias para utilizar el
+propio sistema de búsqueda de la biblioteca universitaria.
+En la segunda y última fase del proceso
+investigativo se prosiguió con actividades
+de: selección definitiva y priorización de los
+recursos bibliográficos; análisis y discusión
+del contenido considerado suficientemente
+útil para el desarrollo expositor del equipo
+investigador, y finalmente, redacción consensuada de las ideas reveladas como evidencia en todo el aporte aquí presentado.
+Resultados
+Conocida como blenorrea o uretritis gonocócica, es una enfermedad que afecta los tejidos mucosos de los órganos sexuales externos y los órganos urinarios
+principalmente, aunque también puede afectar otras partes del organismo.
+Como ya se mencionó, esta enfermedad
+
+RECIMAUC VOL. 5 Nº 1 (2021)
+
+81
+
+VILLACÍS NIETO, J. M., GAVILANES DÁVILA, F. L., VALENCIA INTRIAGO, A. J., & JIMÉNEZ CAMPUSANO, J. I.
+
+es producida por la bacteria Gram negativa N. gonorrhoeae, comúnmente conocida como gonococo. (Gutiérrez, Chaverri, & Navarro, 2016, pág. 7)
+La gonorrea es registrada como la segunda ITS más comúnmente contagiada a nivel
+mundial, indistintamente de que su prevalencia sea variable entre las regiones. “A
+partir de una lesión localizada, el microorganismo puede ascender al tracto genital
+superior y causar enfermedad inflamatoria
+pélvica, epididimoorquitis o incluso diseminarse en forma de bacteriemia.” (Rodríguez
+et al.,2020, pág. 714) Su propagación es
+mediante cualquier tipo de actividad sexual
+o contacto con el pene, la vagina, el ano, la
+uretra, e incluso, con la boca, la garganta o
+los ojos. (MedlinePlus, 2021) Esta infección,
+que padecer tanto las mujeres como los
+hombres, es ocasionada por una bacteria
+(N. gonorrhoeae) y, con mucha frecuencia,
+afecta los epitelios la uretra, el recto, la faringe o las conjuntivas, pero particularmente a las mujeres, les infectar el cuello de la
+matriz. (Mayo Clinic, 2020; Morris, 2019)
+Las bacterias proliferan en zonas corporales húmedas y cálidas, incluso el conducto que transporta la orina fuera del cuerpo
+(uretra). En las mujeres, las bacterias se
+pueden encontrar en el aparato reproductor
+(que incluye las trompas de Falopio, el útero
+y el cuello uterino). La bacteria puede incluso proliferar en los ojos. (MedlinePlus, 2021)
+La N. gonorrhoeae es un diplococo gramnegativo que se encuentra solamente en los
+seres humanos y casi siempre se transmite
+por contacto sexual. (…)
+Durante un episodio de coito vaginal, la
+probabilidad de transmisión de la mujer al
+hombre se aproxima al 20%, aunque puede
+ser más elevada del hombre a la mujer.
+Los recién nacidos pueden contagiarse la
+infección conjuntival durante el pasaje a través del canal del parto y los niños pueden
+contagiarse una gonorrea como resultado
+de un abuso sexual.
+82
+
+En el 10 al 20% de las mujeres, la infección
+cervical asciende a través del endometrio
+hasta las trompas uterinas (salpingitis) y el
+peritoneo pélvico y provoca una enfermedad pelviana inflamatoria (EPI). Las clamidias o las bacterias intestinales también
+pueden producir una EPI. La cervicitis gonocócica suele manifestarse con disuria o
+inflamación de los conductos de las glándulas de Skene y de Bartholin. En una pequeña proporción de hombres, la uretritis
+ascendente progresa en una epididimitis.
+En < 1% de los casos, sobre todo en mujeres, aparece una infección gonocócica
+generalizada provocada por la diseminación hematógena de la enfermedad. Este
+cuadro afecta típicamente la piel, las vainas
+tendinosas y las articulaciones. Rara vez se
+aparecen pericarditis, endocarditis, meningitis y perihepatitis.
+En el 15 al 25% de los hombres heterosexuales infectados y en el 35 al 50% de
+las mujeres se detecta una coinfección con
+Chlamydia trachomatis. (Morris, 2019)
+Síntomas
+Normalmente, es posible identificarlos entre
+los 2 a 5 días luego del contagio. Sin embargo, en los hombres, los síntomas pueden
+tardar hasta un mes en aparecer, incluso,
+es posible que en algunos no se manifieste
+ninguno, y en las mujeres, mayormente no
+se presentan o son muy leves.
+En el caso de los hombres, éstos pudieran
+consistir en: dolor y ardor al orinar, aumento
+de la frecuencia o urgencia urinaria, secreción del pene (de color blanco, amarillo o
+verde), abertura del pene (uretra) roja o inflamada, testículos sensibles o inflamados,
+dolor de garganta (faringitis gonocócica); y
+en las mujeres, aunque pueden ser sutiles y
+desconcertar con otros tipos de patologías,
+podrían consistir en: dolor y ardor al orinar,
+dolor de garganta, relaciones sexuales dolorosas, fiebre y/o dolor pélvico (cuando la
+infección se ha diseminado a las trompas
+de Falopio y la zona estomacal), sangrado
+
+RECIMAUC VOL. 5 Nº 1 (2021)
+
+DIAGNÓSTICO Y TRATAMIENTO DE LA GONORREA
+
+uterino anormal, sangrado luego de la actividad sexual, secreción vaginal anormal
+con mal olor y de coloración verdosa o amarillenta; adicionalmente, cuando la infección
+se ha extendido hasta el torrente sanguíneo,
+se dan síntomas de fiebre, salpullido y una
+sintomatología parecida a la de la artritis.
+(MedlinePlus, 2021)
+
+•
+
+Ojos: dolor, picazón, sensibilidad a la
+luz, secreción que parece pus en uno o
+los dos ojos.
+
+•
+
+Las infecciones del recto pueden no causar
+síntomas tanto en los hombres como en las
+mujeres o pueden causarles los siguientes:
+
+Garganta: dolor de garganta, inflamación de ganglios en el cuello.
+
+•
+
+Articulaciones: calor, enrojecimiento, inflamación o dolor al moverlas.
+
+•
+
+Secreciones;
+
+•
+
+Picazón anal;
+
+•
+
+Dolores;
+
+•
+
+Sangrado;
+
+•
+
+Dolor al defecar. (Centros para el control y a prevención de enfermedades de
+los Estados Unidos de América – CDC,
+2016)
+
+creción que parece pus, sangre de color
+rojo intenso en el papel sanitario o deposiciones dolorosas.
+
+Otros aspectos importantes de la sintomatología asociada a la gonorrea son igualmente detallados en Morris (2019), al hacer
+referencia de tres patologías poco o nada
+descritas en otros aportes ya mencionados,
+las cuales son:
+•
+
+El síndrome de Fitz-Hugh-Curtis es una
+perihepatitis gonocócica (o por clamidia) que aparece predominantemente
+en mujeres y provoca dolor en el cuadrante superior derecho del abdomen,
+fiebre, náuseas y vómitos, a menudo
+diagnosticados en forma errónea como
+parte de una enfermedad hepática o biliar.
+
+•
+
+La infección gonocócica generalizada,
+también conocida como síndrome de
+artritis-dermatitis, refleja el desarrollo de
+bacteriemia y se manifiesta típicamente
+con fiebre, dolor migratorio o edema articular (poliartritis) y lesiones cutáneas
+pustulosas. En algunos pacientes aparece y eritema o edema tendinoso (p. ej.,
+en la muñeca o el tobillo). Las lesiones
+cutáneas características se identifican
+en los brazos o las piernas, tienen una
+base eritematosa y son pequeñas, algo
+dolorosas y a menudo pustulosas. La
+gonorrea genital, que es el origen habitual de la infección generalizada, puede
+ser asintomática. La infección gonocócica generalizada puede confundirse con
+otros trastornos productores de fiebre,
+lesiones cutáneas y poliartritis (p. ej.,
+prodromo de la infección por hepatitis
+
+En este mismo sentido, instituciones como
+la OWH (2019) y Mayo Clinic (2020) describen los signos propios de la infección por
+gonorrea en razón del lugar o zona de contagio.
+Los signos y los síntomas en el área genital
+pueden incluir:
+•
+
+Dolor o ardor al orinar.
+
+•
+
+Secreción similar al pus en la punta del
+pene o más secreción vaginal de lo normal.
+
+•
+
+Secreción vaginal con un aspecto distinto al normal.
+
+•
+
+Sangrado entre períodos menstruales.
+
+•
+
+Dolor o inflamación en u testículo.
+
+•
+
+Dolor en la pelvis o el abdomen.
+
+•
+
+Dolor al orinar (mujeres)
+
+En otras partes del cuerpo, los signos y los
+síntomas pueden ser:
+•
+
+Recto/ano: picazón (comezón) anal, se-
+
+RECIMAUC VOL. 5 Nº 1 (2021)
+
+83
+
+VILLACÍS NIETO, J. M., GAVILANES DÁVILA, F. L., VALENCIA INTRIAGO, A. J., & JIMÉNEZ CAMPUSANO, J. I.
+
+B o meningococemia); algunos de estos
+otros trastornos (p. ej., artritis reactiva)
+también provocan síntomas genitales.
+•
+
+La artritis séptica gonocócica es una forma más localizada de infección gonocócica generalizada que produce artritis
+dolorosa con derrame, en general de 1
+o 2 articulaciones grandes como las rodillas, los tobillos, las muñecas o los codos. Algunos pacientes presentan o tienen antecedentes de lesiones cutáneas
+de infección gonocócica generalizada.
+Su establecimiento suele ser subagudo,
+en general con fiebre, artralgias intensas
+y limitación del movimiento. Las articulaciones infectadas están edematizadas y
+la piel suprayacente puede estar caliente y eritematosa. (Morris, 2019)
+
+teria que causa la gonorrea puede propagarse a través del torrente sanguíneo
+e infectar otras partes del cuerpo (infección gonocócica Diseminada–IGD),
+incluidas las articulaciones. Fiebre, sarpullido, llagas en la piel, dolor articular,
+hinchazón y rigidez son algunos de los
+resultados posibles.
+•
+
+Mayor riesgo de contraer el VIH/SIDA.
+Padecer gonorrea te hace más susceptible a la infección con el virus de la inmunodeficiencia humana (VIH), el virus
+que lleva al SIDA. Las personas que
+tienen tanto gonorrea como VIH pueden
+transmitir ambas enfermedades más fácilmente a sus parejas.
+
+•
+
+Las mujeres embarazadas que tengan
+gonorrea grave le pueden transmitir la
+enfermedad a su feto mientras está en el
+útero o al recién nacido durante el parto, pudiendo éstos padecer de ceguera,
+llagas en el cuero cabelludo e infecciones.
+
+•
+
+También puede causar complicaciones
+en el embarazo como una infección y un
+parto prematuro.
+
+•
+
+Absceso en la matriz (el útero) y el abdomen. (CDC, 2016; Mayo Clinic, 2020;
+MedlinePlus, 2021)
+
+Complicaciones
+En ambos géneros puede llegar conllevar a:
+infecciones articulares, de válvulas cardíacas y meningitis. Particularmente en hombres, puede resultar en abscesos y/o estenosis uretral, y en pocos casos, infertilidad.
+En las mujeres, las complejidades terminan
+siendo varias y más serias, dado que:
+•
+
+•
+
+•
+
+84
+
+Las infecciones que se propagan a las
+trompas de Falopio pueden causar cicatrización, lo cual puede provocar problemas de infertilidad. También puede
+provocar dolor pélvico crónico, EIP [enfermedad inflamatoria pélvica], infertilidad y embarazo ectópico. Los episodios
+recurrentes aumentarán el riesgo de infertilidad a causa del daño a las trompas
+de Falopio.
+Infertilidad en los hombres. La gonorrea
+puede causar la inflamación (epididimitis) de un pequeño tubo enrollado en la
+parte posterior de los testículos donde
+se encuentran los conductos espermáticos (epidídimo) se inflame. La epididimitis no tratada puede producir infertilidad.
+Infección que se propaga a las articulaciones y otras áreas del cuerpo. La bac-
+
+Cabe destacar que, sobre la IGD, Label et
+al. (2020) ha detallado que, la misma rara
+vez se configura debido a que “presenta
+como factores de riesgo a los pacientes
+sexualmente activos, menores de 40 años
+y mujeres, debido a la presentación subclínica de la infección genital.” (Pág. 75) La
+erupción cutánea (Rash), tenosinovitis y artritis/artralgias suelen ser la triada de signos
+con los que, clínicamente, se presenta esta
+complicación de la gonorrea; aunque también podría manifestarse como artritis séptica sin compromiso cutáneo.
+La infección gonocócica diseminada
+(IGD) es el producto de la diseminación
+hemática de Neisseria gonorrhoeae que
+
+RECIMAUC VOL. 5 Nº 1 (2021)
+
+DIAGNÓSTICO Y TRATAMIENTO DE LA GONORREA
+
+suele presentarse de dos a tres semanas
+posteriores a la primoinfección. Presenta
+una incidencia de 0.5 a 3% de todos los
+pacientes con gonorrea.
+
+de resistencia no afecta el «fitness» biológico del microorganismo, por lo que las
+cepas multirresistentes persisten incluso en
+ausencia de presión antibiótica.
+
+[…] En cuanto a la patogénesis de la
+IGD depende tanto de factores predisponentes del huésped como de la bacteria. Dentro de los primeros se pueden
+mencionar la infección mucosa asintomática, menstruación reciente en sexo
+femenino, embarazo, múltiples parejas
+sexuales, bajo nivel socioeconómico,
+VIH positivo, déficit de complemento
+(congénito o adquirido), lupus eritematoso sistémico (LES), entre otros. Asociado
+a éstos, se agregan ciertas características de la bacteria per se, como ser el serotipo proteína 1A, el lípido A, o aquéllas
+que carecen de la proteína II, entre otras,
+que favorecen a generar una infección
+diseminada, ya que generan una menor
+respuesta inflamatoria en el huésped y
+por ende cursan primoinfecciones oligosintomáticas. (Pág. 76-77)
+
+Las sulfonamidas, las penicilinas, las tetraciclinas, los macrólidos y las fluoroquinolonas ya no son opciones de tratamiento
+empírico debido al alto porcentaje de resistencias detectadas a nivel mundial. Las
+cefalosporinas de espectro extendido (cefixima y ceftriaxona) son la última opción de
+tratamiento empírico de primera línea, pero
+en las últimas décadas también se han detectado cepas resistentes en todo el mundo,
+por lo que la infección gonocócica podría
+convertirse en una infección intratable. Un
+hecho muy alarmante es la detección, a
+principios del ano˜ 2018, del primer
+
+Resistencia antimicrobiana
+Desde que a principios del siglo xx se introdujo el uso de los antimicrobianos para el
+tratamiento de la gonorrea, NG ha ido desarrollando resistencia a todos los utilizados a
+lo largo de la historia.
+NG desarrolla resistencia a los antibióticos
+a través de todos los mecanismos descritos: a) modificación o destrucción de la molécula antimicrobiana mediante un proceso
+enzimático; b) modificación de la diana terapéutica; c) disminución de la penetración
+del antibiótico al interior de la célula, y d)
+aumento de la expulsión hacia el exterior
+de la célula. Además, ha demostrado una
+gran capacidad de transferencia horizontal
+de material genético, hecho muy relevante,
+ya que se sabe que la infección gonocócica
+faríngea puede actuar como fuente de resistencias debido a la adquisición de genes
+de resistencia procedentes de otras especies saprófitas de Neisseria de la orofaringe.
+Además, la adquisición de determinantes
+
+caso de fracaso terapéutico con el tratamiento dual con ceftriaxona y azitromicina.
+En 2016, según los datos publicados por
+el European Gonococcal Antimicrobial Surveillance Programme (Euro GASP), se estudiaron 2.660 cepas de gonococo aisladas
+en 25 países participantes. No se detectó
+ningún aislado resistente a ceftriaxona, un
+2,1% presentaron resistencia a cefixima y
+un 7,5% a azitromicina. El 46,5% presentaron resistencia a ciprofloxacino. […]
+Por todo lo anteriormente comentado, es
+muy importante realizar el cultivo para el
+diagnóstico de la infección para así poder
+aislar el microorganismo y realizar el antibiograma. Eso permite monitorizar la resistencia a nivel local y ajustar las guías de tratamiento, ya que la Organización Mundial
+de la Salud recomienda actualizar dichas
+guías si la tasa de resistencia a los antibióticos utilizados es superior al 5%. (Barberá &
+Serra, 2019, pág. 461)
+Diagnóstico de la Gonorrea
+Los exámenes solicitados en la práctica
+médica para el diagnóstico de la gonorrea, tanto en pacientes masculinos como
+femeninos, básicamente han sido: cultivo
+
+RECIMAUC VOL. 5 Nº 1 (2021)
+
+85
+
+VILLACÍS NIETO, J. M., GAVILANES DÁVILA, F. L., VALENCIA INTRIAGO, A. J., & JIMÉNEZ CAMPUSANO, J. I.
+
+de secreción uretral; cultivo rectal; tinción
+de Gram de secreción uretral y/o Tinción de
+Gram endocervical, según corresponda en
+cada caso y género. (MedlinePLus, 2019)
+La gonorrea se puede detectar rápidamente examinando una muestra de tejido o secreción bajo un microscopio. Esto se denomina tinción de Gram. Aunque este método
+es rápido, no es el más seguro.
+La gonorrea se detecta más precisamente
+con exámenes de ADN. Los exámenes de
+ADN son útiles para llevar a cabo exploraciones. La prueba de reacción en cadena
+de la ligasa (RCL) es uno de estos exámenes. Los exámenes de ADN son más rápidos que los cultivos. Estos exámenes pueden realizarse con muestras de orina, que
+son más fáciles de recolectar que las muestras de la zona genital.
+Antes de los exámenes de ADN, los cultivos
+(células que crecen en un plato de laboratorio) se usaban para obtener probar la presencia de la gonorrea, pero no se usan con
+frecuencia actualmente.
+Generalmente, las muestras para un cultivo se toman del cuello uterino, la vagina, la
+uretra, el ano o la garganta. En pocas ocasiones se toman del líquido articular o de
+la sangre. Con frecuencia, los cultivos pueden suministrar un diagnóstico preliminar al
+cabo de 24 horas. Un diagnóstico de confirmación está disponible al cabo de 72 horas.
+(MedlinePlus, 2021)
+En este mismo orden de ideas, en la revisión
+de Rodríguez et al. (2020); que por cierto
+estuvo centrada en actualizar los principales métodos diagnósticos existentes en
+las ITS más relevantes, fue posible extraer
+lo explicado en relación a tres métodos de
+diagnóstico de infecciones por NG:
+Microscopia
+La NG se puede visualizar microscópicamente mediante la tinción de un frotis obtenido del tracto genital de los pacientes sintomáticos. En hombres con secreción uretral,
+86
+
+se puede usar la microscopia (×1.000) de la
+tinción de Gram para identificar diplococos
+dentro de los leucocitos polimorfonucleares,
+con una buena sensibilidad (≥ 95%) y especificidad (≥ 99%), como prueba diagnóstica
+rápida. Sin embargo, en hombres asintomáticos esta técnica tiene poca sensibilidad (≤
+55%), así como en la identificación de la
+infección endocervical o rectal (≤ 55% y ≤
+40%, respectivamente), por lo que, en estas
+circunstancias, no se puede recomendar el
+uso de la microscopia como prueba para
+descartar una infección. Además, las tinciones de Gram de muestras endocervicales, rectales o faríngeas no se recomiendan
+para la detección de infecciones debido a
+la poca especificidad y a la baja sensibilidad.
+Cultivo
+El cultivo es el único método diagnóstico
+que permite realizar pruebas de susceptibilidad a los antimicrobianos, por lo que sigue
+siendo importante para detectar y controlar
+la resistencia a estos. Las muestras deben
+obtenerse utilizando hisopos que no contengan compuestos como la madera y el algodón, ya que estos pueden ser inhibidores
+o tóxicos para la NG. Algunos sistemas de
+transporte pueden mantener la viabilidad
+del gonococo hasta 48 h a temperatura ambiente. Los hisopos se deben insertar 2-3
+cm en la uretra masculina o 1-2 cm en el
+canal endocervical, y luego se realizarán
+2-3 rotaciones.
+Las muestras obtenidas de localizaciones
+estériles se pueden cultivar en un medio
+no selectivo (p. ej., Agar chocolate), mientras que las de localizaciones no estériles
+se cultivarán en un medio selectivo (p. ej.,
+Martin-Lewis, Thayer-Martin), el cual contiene agentes antimicrobianos que inhibirán
+el crecimiento de otras bacterias y hongos.
+Estos medios se incuban a 35 ◦C en un ambiente suplementado con el 5% de CO2 y
+se valorarán al menos durante 48-72 h. Los
+diplococos gramnegativos y las colonias
+oxidasa positivas presumiblemente se pue-
+
+RECIMAUC VOL. 5 Nº 1 (2021)
+
+DIAGNÓSTICO Y TRATAMIENTO DE LA GONORREA
+
+den identificar como NG. Sin embargo, se
+necesitarán pruebas bioquímicas adicionales para poder confirmar el diagnóstico.
+Se deberá realizar un cultivo para el estudio de la sensibilidad antimicrobiana en
+aquellos pacientes con una infección persistente o si se sospecha un fracaso del
+tratamiento. Además, la caracterización de
+estos mediante una tipificación molecular
+puede ser una herramienta útil para predecir la resistencia a los antimicrobianos, ya
+que algunos tipos estarán asociados a una
+menor susceptibilidad a diversos antibióticos. La sensibilidad del cultivo es elevada
+en las muestras genitales, pero dependerá
+en gran medida de la forma de recolección
+de las muestras, del transporte, del almacenamiento y de los procedimientos de aislamiento.
+Pruebas de amplificación de los ácidos nucleicos (NAAT)
+Las técnicas de NAAT se recomiendan para
+la detección de infecciones causadas por
+la NG con y sin síntomas. Los NAAT son
+más sensibles que el cultivo, se pueden
+usar en una gama más amplia de tipos de
+muestras, y la calidad, el transporte y el
+almacenamiento de las muestras son menos estrictos. Los NAAT son la prueba de
+elección para valorar pacientes que estén
+asintomáticos. Estas técnicas tendrán una
+sensibilidad similar en las muestras de orina y en las de la uretra de los hombres, así
+como una sensibilidad similar en las muestras endocervicales tomadas por médicos
+y en aquellas tomadas por los mismos pacientes. Sin embargo, en las mujeres, las
+muestras de orina tendrán una menor sensibilidad que las muestras obtenidas con
+hisopos genitales. Además, los NAAT serán
+significativamente más sensibles que el cultivo para la detección de la NG en las muestras faríngeas y rectales, por lo que son las
+pruebas de elección para el cribado de
+este tipo de infecciones. Sin embargo, estas técnicas no se han aprobado para el estudio de las muestras de estas localizacio-
+
+nes. En la guía actualizada norteamericana
+para el diagnóstico de estas infecciones se
+puede encontrar un resumen de las plataformas de análisis NAAT disponibles en el
+mercado y que han sido aprobadas por la
+Food and Drug Administration (FDA) para
+la detección de NG en los Estados Unidos.
+(Rodríguez et al., 2020, págs. 714-715)
+Tratamiento de la Gonorrea
+Conforme al criterio de Gutiérrez, Chaverri
+& Navarro (2016):
+Para el tratamiento de la gonorrea se ha establecido el siguiente esquema: cefpodoxima, 400 mg oral, o ceftriaxona 125 mg IM,
+o fluoroquinolona (ejemplo ciprofloxacina,
+500 mg oral). La doxiciclina es el tratamiento de segunda elección, pues la cefpodoxima presenta problemas de disponibilidad
+en América. (págs. 8-9)
+Por su parte, el Centro para la salud de las
+mujeres jóvenes ubicado en USA ha publicado que, usual y oportunamente, la terapia
+y saneamiento de la gonorrea no complicada está basado en la combinación de antibióticos, tales como: ceftriaxona (inyectable) más azitromicina (vía oral).
+De todas maneras, en medicina es bien
+sabido que cada caso es particular, y es
+posible que eventualmente, se generen situaciones tan especiales como severas que
+requieran de una indicación terapéutica
+ajustada.
+Regularmente, las infecciones sin complicaciones del cuello uterino, la uretra o el
+recto son curadas con una sola dosificación
+de esos dos antibióticos. Claro está que, indiscutiblemente, cualquiera sea el caso de
+gonorrea, mientras más pronto sea tratada
+será más fácilmente curada; de lo contrario, la enfermedad pasará inevitablemente
+a una forma más severa y difícil de resolver.
+(Center for Young Women's Health – USA,
+2020)
+Cuando el paciente es alérgico a los antibióticos de Cefalosporina, como la Ceftria-
+
+RECIMAUC VOL. 5 Nº 1 (2021)
+
+87
+
+VILLACÍS NIETO, J. M., GAVILANES DÁVILA, F. L., VALENCIA INTRIAGO, A. J., & JIMÉNEZ CAMPUSANO, J. I.
+
+xona, se sugiere administrar gemifloxacina
+vía oral o gentamicina inyectable y azitromicina oral. (Mayo Clinic, 2020)
+“La infección gonocócica generalizada con
+artritis se trata con cursos más prolongados
+de antibióticos por vía parenteral” (Morris,
+2019)
+Conclusión
+Sobre la base de las fuentes de datos utilizadas en este estudio, es posible atreverse
+a deducir que:
+El diagnóstico de la gonorrea se efectúa en
+base a pruebas o exámenes que pueden
+incluir:
+•
+
+•
+
+•
+
+•
+
+Evaluación microscópica; de una muestra de tejido o secreción tomada del
+cuello uterino, la vagina, la uretra, el ano
+o la garganta, y menos ocasiones, del líquido articular o de la sangre (por ejemplo, para tinción de Gram de secreción
+uretral o Tinción de Gram endocervical;
+son rápidos, pero poco seguros);
+Cultivos, (de secreción uretral; cultivo
+rectal) para realizar pruebas de susceptibilidad a los antimicrobianos, ya son
+menos usados en la actualidad;
+Exámenes de ADN, se pueden hacer
+con muestras de orina y son más rápidos que los cultivos, (un ejemplo de estos es la prueba RCL),
+Pruebas de amplificación de los ácidos
+nucleicos (NAAT), éstas son más sensibles que el cultivo, ideales para valorar
+pacientes que estén asintomáticos.
+
+En cuanto al tratamiento, los resultados conducen a resumir que, en general, las fuentes consultadas coincidieron y sugieren una
+terapia en base a la administración de antibióticos combinados, incluyendo:
+1º.
+Ceftriaxona 125 mg IM; o cefpodoxima 400 mg vía oral (o doxiciclina, como su
+segunda opción); o fluoroquinolona (ejemplo: ciprofloxacina 500 mg) vía oral.
+88
+
+2º.
+
+Azitromicina vía oral.
+
+Excepción: En caso de saber que el paciente sea alérgico a la Cefalosporina (Ceftriaxona), se ha sugerido un tratamiento con
+gentamicina inyectable o gemifloxacina vía
+oral.
+Bibliografía
+Barberá, M., & Serra, J. (agosto-septiembe de
+2019). Infección gonocócica: un problema aún
+sin resolver. Enfermedades Infecciosas y Microbiología Clinica, 37(7), 458-466. doi:10.1016/j.
+eimc.2018.12.008
+Center for Young Women's Health – USA. (22 de
+mayo de 2020). sexual health \ gonorrhea: Center for Young Women's Health. Recuperado el 20
+de enero de 2021, de sitio web: Center for Young
+Women's Health: https://youngwomenshealth.
+org/2013/10/08/gonorrhea/
+Centros para el control y a prevención de enfermedades de los Estados Unidos de América – CDC.
+(10 de febrero de 2016). Enfermedades de transmisión sexual (ETS) \ Hojas informativas \ Gonorrea: CDC – Centros para el control y a prevención
+de enfermedades. Recuperado el 20 de enero de
+2021, de Sitio web: CDC – Centros para el control y a prevención de enfermedades: https://www.
+cdc.gov/std/spanish/gonorrea/stdfact-gonorrhea-s.htm
+Díez, M., & Díaz, A. (01 de octubre de 2011). Infecciones de transmisión sexual: epidemiología y
+control. (S. E. Penitenciaria, Ed.) Revista española
+de sanidad penitenciaria, 13(2), 58-66. Recuperado el 15 de enero de 2021, de https://doaj.org/article/2dee5c8875e64a53a4b0bfe9282a7106
+Gutiérrez, W., Chaverri, J., & Navarro, J. (octubre-diciembre de 2016). Enfermedades de transmisión
+sexual y salud sexual del costarricense. Tema II.
+Sífilis y gonorrea. Tecnología en Marcha, 29(4),
+3-15. doi:10.18845/tm.v29i4.3033
+Label, A., Tirelli, L., Luna, P., Llorca, V., Solé, J., Vigovich, F., & Larralde, M. (2020). Infección gonocócica diseminada. Otra gran simuladora. Medicina cutánea ibero-latino-americana, 48(1), 75-79.
+doi:10.35366/93982
+Mayo Clinic. (03 de marzo de 2020). Información
+sobre salud \ Enfermedades y afecciones. Recuperado el 20 de enero de 2021, de Sitio web. mayoclinic.org [en español]: https://www.mayoclinic.
+org/es-es/diseases-conditions/gonorrhea/symptoms-causes/syc-20351774
+MedlinePLus. (23 de agosto de 2019). Temas de
+
+RECIMAUC VOL. 5 Nº 1 (2021)
+
+DIAGNÓSTICO Y TRATAMIENTO DE LA GONORREA
+salud\Gonorrea. Recuperado el 20 de enero de
+2021, de Sitio web: medlineplus.gov [versión español]:
+https://medlineplus.gov/spanish/gonorrhea.html#cat_92
+MedlinePlus. (05 de enero de 2021). Enciclopedia
+médica \ Gonorrea: MedlinePlus. Recuperado
+el 20 de enero de 2021, de Sitio web: MedlinePlus:
+https://medlineplus.gov/spanish/ency/article/007267.htm
+Morris, S. (julio de 2019). Temas médicos \ Gonorrea:
+Manual MDS – Versión para profesionales. Recuperado el 20 de enero de 2021, de Sitio web: Manula MDS [en español]: https://www.msdmanuals.
+com/es/professional/enfermedades-infecciosas/
+enfermedades-de-transmisi%C3%B3n-sexual/gonorrea
+
+OWH. (01 de abril de 2019). Temas de salud de la
+A-Z \ Gonorrea: OWH – Office on women's health.
+Recuperado el 20 de enero de 2021, de Sitio web:
+: OWH – Office on women's health: https://espanol.
+womenshealth.gov/a-z-topics/gonorrhea
+Rodríguez, J., Espadafor, B., Coboa, F., Blasco, G.,
+Sampedro, A., Tercedor, J., . . . Navarro, J. (noviembre de 2020). Actualización en el diagnóstico de
+las infecciones de transmisión sexual. Actas dermo-Sifiliográficas, 111(9), 711-724. doi:10.1016/j.
+ad.2019.05.008
+
+CITAR ESTE ARTICULO:
+Villacís Nieto, J. M., Gavilanes Dávila, F. L., Valencia Intriago, A. J., & Jiménez
+Campusano, J. I. (2021). Diagnóstico y tratamiento de la gonorrea. RECIAMUC, 5(1), 78-89. https://doi.org/10.26820/reciamuc/5.(1).ene.2021.78-89
+
+RECIMAUC VOL. 5 Nº 1 (2021)
+
+89
+
+

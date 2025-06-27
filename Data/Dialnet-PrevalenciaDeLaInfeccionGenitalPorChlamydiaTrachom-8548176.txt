@@ -1,0 +1,994 @@
+Dom. Cien., ISSN: 2477-8818
+Vol. 8, núm. 2. Abril-Junio, 2022, pp. 1518-1536
+
+Prevalencia de la infección genital por Chlamydia trachomatis en mujeres
+DOI: http://dx.doi.org/10.23857/dc.v8i2.2731
+Ciencias de la Salud
+Artículo de Investigación
+
+Prevalencia de la infección genital por Chlamydia trachomatis en mujeres
+Prevalence of Chlamydia trachomatis genital infection in women
+Prevalência de infecção genital por Chlamydia trachomatis em mulheres
+
+Josías Salvador Armijos-Guevara I
+drarmijosguevara@gmail.com
+https://orcid.org/0000-0002-0240-5082
+
+Oriana Marcela Gallego-Ramírez II
+Orianag83@hotmail.com
+https://orcid.org/0000-0002-7588-7676
+
+Rodolfo José de Jesús Castilla-Romero III
+rodolfocastillaromero@hotmail.com
+https://orcid.org/0000-0003-3830-4563
+
+Julián Vicente Cuesta-Sarmiento IV
+julian_cuesta.s@hotmail.com
+https://orcid.org/0000-0003-1701-425X
+
+Correspondencia: drarmijosguevara@gmail.com
+
+*Recibido: 27 de febrero del 2022 *Aceptado: 20 de marzo de 2022 * Publicado: 25 de abril de 2022
+
+I.
+II.
+III.
+IV.
+
+Médico, Investigador Independiente, Ecuador.
+Médico, Investigador Independiente, Ecuador.
+Médico, Investigador Independiente, Ecuador.
+Médico, Investigador Independiente, Ecuador.
+
+http://dominiodelasciencias.com/ojs/index.php/es/index
+
+Dom. Cien., ISSN: 2477-8818
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+
+Prevalencia de la infección genital por Chlamydia trachomatis en mujeres
+
+Resumen
+La infección por Chlamydia trachomatis constituye la enfermedad de transmisión sexual más
+frecuente y curable. En mujeres es la mayor causa de enfermedad inflamatoria pélvica. Produce
+problemas de fertilidad tanto en hombres como en mujeres es por ello que es de suma importancia
+hacer un diagnóstico precoz y un tratamiento oportuno que evite las complicaciones a futuro. En el
+hombre infectado ocasiona epididimitis, prostatitis, uretritis y en ambos, artritis reactivas y síndrome
+uretral agudo en la mayoría de los casos como consecuencia de no haber realizado un tratamiento a
+tiempo. Las causas demográficas asociados con mujeres de mayor edad incluyen: estatus de no
+casada, nulípara, raza negra y condiciones socioeconómicas pobres y el alto número de parejas
+sexuales, nueva pareja sexual, carencia del uso de anticonceptivos de barrera e infección concurrente
+por Neisseria gonorrheae.
+Palabras Claves: Chlamydia trachomatis; fertilidad; epididimitis; prostatitis; uretritis; Neisseria
+gonorrheae.
+
+Abstract
+Chlamydia trachomatis infection is the most common and curable sexually transmitted disease. In
+women it is the main cause of pelvic inflammatory disease. It produces fertility problems in both men
+and women, which is why it is extremely important to make an early diagnosis and timely treatment
+to avoid future complications. In infected men, it causes epididymitis, prostatitis, urethritis and, in
+both, reactive arthritis and acute urethral syndrome in most cases as a consequence of not having
+carried out timely treatment. Demographic causes associated with older women include: unmarried
+status, nulliparity, black race, and poor socioeconomic status and high number of sexual partners,
+new sexual partners, lack of barrier contraceptive use, and concurrent Neisseria gonorrhoeae
+infection.
+Keywords: Chlamydia trachomatis; fertility; epididymitis; prostatitis; urethritis; Neisseria
+gonorrhoeae.
+
+Resumo
+A infecção por Chlamydia trachomatis é a doença sexualmente transmissível mais comum e curável.
+Nas mulheres é a principal causa de doença inflamatória pélvica. Produz problemas de fertilidade em
+
+1519
+
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+Josías Salvador Armijos Guevara, Oriana Marcela Gallego Ramírez, Rodolfo José de Jesús Castilla Romero, Julián Vicente
+Cuesta Sarmiento
+
+Dom. Cien., ISSN: 2477-8818
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+
+Prevalencia de la infección genital por Chlamydia trachomatis en mujeres
+
+homens e mulheres, por isso é extremamente importante fazer um diagnóstico precoce e um
+tratamento oportuno para evitar complicações futuras. Nos homens infectados, causa epididimite,
+prostatite, uretrite e, em ambos, artrite reativa e síndrome uretral aguda na maioria dos casos, como
+consequência de não ter realizado o tratamento atempado. As causas demográficas associadas a
+mulheres mais velhas incluem: estado de solteira, nuliparidade, raça negra, baixo nível
+socioeconômico e alto número de parceiros sexuais, novos parceiros sexuais, falta de uso de
+contraceptivos de barreira e infecção concomitante por Neisseria gonorrhoeae.
+Palavras-chave: Chlamydia trachomatis; fertilidade; epididimite; prostatite; uretrite; Neisseria
+gonorrhoeae.
+
+Introducción
+La infección por C. trachomatis es la enfermedad de transmisión sexual más frecuente en muchos
+países del mundo, con un alto nivel de prevalencia en mujeres. En el mundo, se evidencia que se
+presentan un gran número de casos anualmente. Las Chlamydias son catalogadas como bacterias, Su
+ciclo reproductivo reconoce dos formas, el cuerpo elemental (forma infectante y extracelular) y la
+forma reticular (no infectante e intracelular).
+Esta infección asintomática, debido a la exposición continua de antígenos infectantes con gran poder
+de producir intensa reacción inflamatoria es la que a la postre se transforma en una fuente secuela
+crónica de infertilidad, embarazos ectópicos y patología de alto riesgo perinatal. El tratamiento con
+antibióticos puede eliminar la bacteria o al no ser bien tratada puede ocultar reapareciendo con el
+tiempo. Es por ello que un tratamiento inadecuado puede generar la cronicidad, con la persistencia de
+la Chlamydia por muchos años, causando molestias abdominales en mujeres, inflamación de las
+glándulas sexuales accesorias, infertilidad masculina y femenina, artritis reactiva, asma crónica,
+enfermedades respiratorias, endocarditis, enfermedad coronaria. La infección aguda por Chlamydia
+en muchos casos puede cursar con: uretritis, cervicitis, conjuntivitis y enfermedad respiratoria. Por lo
+tanto se deben tomar previsiones a tiempo y realizar un tratamiento acorde y un seguimiento
+exhaustivo de los casos como medida de prevención y erradicación total de la misma para evitar
+complicaciones mayores que comprometan la vida del paciente, así como también el entorno familiar
+que se encuentra expuesto.
+
+1520
+
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+Josías Salvador Armijos Guevara, Oriana Marcela Gallego Ramírez, Rodolfo José de Jesús Castilla Romero, Julián Vicente
+Cuesta Sarmiento
+
+Dom. Cien., ISSN: 2477-8818
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+
+Prevalencia de la infección genital por Chlamydia trachomatis en mujeres
+
+Desarrollo
+Chlamydia trachomatis
+La infección por la bacteria clamidia trachomatis es una infección de transmisión sexual (ITS)
+frecuente. Es posible que no sepas que tienes Clamidia porque muchas personas no tienen signos o
+síntomas, como dolor genital y secreción de la vagina o del pene.
+Clamidia trachomatis afecta principalmente a las mujeres jóvenes, pero puede presentarse tanto en
+varones como en mujeres, y en todos los grupos etarios. No es difícil de tratar, pero si no se trata
+puede conducir a problemas de salud más graves.
+Las infecciones por clamidias son aquellas infecciones de transmisión sexual producidas por las
+bacterias Chlamydia trachomatis que afectan a la uretra, al cuello uterino o al recto. Estas bacterias
+también pueden infectar las membranas que cubren el blanco de los ojos (conjuntiva) y la garganta.
+Otras bacterias como Ureaplasma o los Mycoplasma también producen infecciones uretrales.
+●
+
+Los síntomas incluyen secreción vaginal o peneana, dolor o micción más frecuente.
+
+●
+
+En las mujeres, cuando la infección no produce síntomas o no se trata, puede provocar
+esterilidad, aborto espontáneo y un mayor riesgo de embarazo ectópico.
+
+●
+
+Las pruebas de ADN realizadas a partir de una muestra de las secreciones o de la orina
+permiten detectar la infección por clamidias.
+
+●
+
+Los antibióticos curan la infección, pero las parejas sexuales deben recibir tratamiento de
+forma simultánea.
+
+La infección por clamidias es la enfermedad de transmisión sexual más frecuente. En Estados Unidos
+se comunicaron más de 1,8 millones de casos en 2018. La infección frecuentemente no causa
+síntomas, por lo que el número de personas realmente infectadas podría duplicar al número de
+personas con infección por clamidias diagnosticada.
+Las infecciones por clamidias y por gonorrea causan síntomas similares. Ambas pueden causar
+infecciones uretrales (uretritis) en hombres y, en mujeres, infecciones del cuello del útero (cervicitis)
+que producen pus (véase también Infecciones por clamidias y micoplasmas).
+Algunas veces, personas de ambos sexos pueden padecer gonorrea y una infección por clamidias de
+forma simultánea.
+
+1521
+
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+Josías Salvador Armijos Guevara, Oriana Marcela Gallego Ramírez, Rodolfo José de Jesús Castilla Romero, Julián Vicente
+Cuesta Sarmiento
+
+Dom. Cien., ISSN: 2477-8818
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+
+Prevalencia de la infección genital por Chlamydia trachomatis en mujeres
+
+Síntomas
+Muchas mujeres con cervicitis por clamidias pueden tener pocos o ningún síntoma. Pero otras sienten
+a menudo una necesidad imperiosa de orinar, dolor durante la micción y secreción de moco
+amarillento o de pus por la vagina. Las relaciones sexuales pueden ser dolorosas.
+Si el recto se ve afectado por la infección, habrá dolor rectal o hipersensibilidad, además de una
+secreción amarillenta de pus y mucosidad por el recto.
+La infección por clamidia también se puede transmitir durante el sexo oral, causando la infección de
+la garganta. La infección de la garganta por clamidias no suele provocar síntomas.
+Sin tratamiento, los síntomas disminuyen en 4 semanas en aproximadamente dos tercios de las
+personas. Sin embargo, las infecciones por clamidia pueden tener graves consecuencias a largo plazo
+para las mujeres, incluso cuando los síntomas que presentan son leves o ausentes. Por lo tanto, la
+detección y el tratamiento de la infección en las mujeres son importantes, incluso si no existen
+síntomas.
+Las infecciones por Chlamydia trachomatis en etapa temprana a menudo causan pocos signos o
+síntomas, o ninguno. Incluso cuando se producen signos y síntomas, suelen ser leves, lo que hace que
+sean fáciles de pasar por alto.
+Los signos y síntomas de la infección por Chlamydia trachomatis pueden incluir:
+●
+
+Micción dolorosa
+
+●
+
+Flujo vaginal en mujeres
+
+●
+
+Secreción del pene en hombres
+
+●
+
+Dolor durante las relaciones sexuales en mujeres
+
+●
+
+Sangrado entre períodos menstruales y después del sexo en mujeres
+
+●
+
+Dolor testicular en hombres
+
+La Clamidia trachomatis también puede infectar el recto, ya sea sin signos o síntomas, o con dolor,
+secreción o sangrado rectal. También puedes contraer infecciones oculares por clamidia
+(conjuntivitis) a través del contacto con líquidos corporales infectados.
+Causas
+La bacteria de la clamidia trachomatis se transmite más frecuentemente por relaciones sexuales
+vaginales, orales y anales. También es posible que una mujer embarazada le transmita clamidia a su
+hijo durante el parto, provocándole neumonía o una infección ocular grave al recién nacido.
+
+1522
+
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+Josías Salvador Armijos Guevara, Oriana Marcela Gallego Ramírez, Rodolfo José de Jesús Castilla Romero, Julián Vicente
+Cuesta Sarmiento
+
+Dom. Cien., ISSN: 2477-8818
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+
+Prevalencia de la infección genital por Chlamydia trachomatis en mujeres
+
+Factores de riesgo
+Los factores que aumentan el riesgo de contraer Chlamydia trachomatis incluyen:
+●
+
+Ser sexualmente activo antes de los 25 años
+
+●
+
+Tener múltiples parejas sexuales
+
+●
+
+No usar preservativo regularmente
+
+●
+
+Tener antecedentes de infecciones de transmisión sexual
+
+Complicaciones
+Clamidia trachomatis puede estar asociada con:
+Enfermedad inflamatoria pélvica (EIP). La enfermedad inflamatoria pélvica es una infección del útero
+y las trompas de Falopio que provoca dolor en la pelvis y fiebre. Las infecciones graves pueden
+requerir la hospitalización para poder administrar antibióticos intravenosos. La enfermedad
+inflamatoria pélvica puede dañar las trompas de Falopio, los ovarios y el útero, incluido el cuello del
+útero.
+Infección cerca de los testículos (epididimitis). La infección por clamidia puede inflamar el tubo en
+espiral ubicado al lado de cada testículo (epididimitis). La infección puede provocar fiebre, dolor de
+escroto e hinchazón.
+Infección de la glándula prostática. En raras ocasiones, la bacteria clamidia puede diseminarse a la
+glándula prostática. La prostatitis puede provocar dolor durante o después de las relaciones sexuales,
+fiebre, escalofríos, micción dolorosa y dolor en la espalda lumbar.
+Infecciones en los recién nacidos. La infección por clamidia puede transmitirse al bebé a través del
+canal vaginal durante el parto, y provocar neumonía o una infección grave en los ojos.
+Embarazo ectópico. Esto ocurre cuando un óvulo fecundado se implanta y crece fuera del útero,
+generalmente en una trompa de Falopio. Se debe interrumpir el embarazo para evitar complicaciones
+potencialmente mortales, como una explosión de la trompa. Una infección por clamidia aumenta este
+riesgo.
+Infertilidad. Las infecciones por clamidia, incluso las que no producen signos o síntomas, pueden
+causar cicatrices y obstrucción en las trompas de Falopio, lo que provocaría infertilidad en las
+mujeres.
+Artritis reactiva. Las personas que tienen una infección por clamidia trachomatis corren un mayor
+riesgo de desarrollar artritis reactiva, también conocida como síndrome de Reiter. Esta afección
+
+1523
+
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+Josías Salvador Armijos Guevara, Oriana Marcela Gallego Ramírez, Rodolfo José de Jesús Castilla Romero, Julián Vicente
+Cuesta Sarmiento
+
+Dom. Cien., ISSN: 2477-8818
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+
+Prevalencia de la infección genital por Chlamydia trachomatis en mujeres
+
+generalmente afecta las articulaciones, los ojos y la uretra, el tubo que lleva la orina desde la vejiga
+hacia el exterior del cuerpo.
+Diagnóstico
+Los Centros para el Control y la Prevención de Enfermedades recomiendan realizar exámenes de
+detección de clamidia en los siguientes casos:
+●
+
+Mujeres sexualmente activas de 25 años o menos. La tasa de infección por clamidia
+
+es mayor en este grupo, por lo que se recomienda un examen de detección al año. Incluso si
+te realizaste un análisis el año pasado, hazte otro análisis cuando tengas una nueva pareja.
+●
+
+Mujeres embarazadas. Deberías hacerte el análisis para detección de clamidia
+
+durante tu primer examen prenatal. Si tienes un alto riesgo de infección, ya sea por cambiar
+de pareja sexual o porque tu pareja habitual podría estar infectada, hazte la prueba de nuevo
+más tarde durante tu embarazo.
+●
+
+Mujeres y hombres en alto riesgo. Las personas que tienen múltiples parejas
+
+sexuales, que no siempre usan un preservativo o los hombres que tienen relaciones sexuales
+con hombres deben considerar la posibilidad de hacerse exámenes de detección de la clamidia
+con frecuencia. Otros marcadores de alto riesgo son una infección actual con otra infección
+de transmisión sexual y la posible exposición a una infección de transmisión sexual a través
+de una pareja infectada.
+El examen de detección y el diagnóstico de la clamidia son relativamente simples. Estas pruebas
+pueden incluir lo siguiente:
+●
+
+Un análisis de orina. Se analiza una muestra de tu orina en el laboratorio para detectar
+
+la presencia de esta infección.
+●
+
+Un hisopado. En el caso de las mujeres, el médico toma una muestra de flujo del
+
+cuello del útero para realizar un cultivo o un análisis de los antígenos para detectar la clamidia.
+Esto se puede realizar durante una prueba de Papanicolaou de rutina. Algunas mujeres
+prefieren tomar las muestras de la vagina ellas mismas; se ha demostrado que esto es tan
+preciso como los hisopos obtenidos por el médico.
+En el caso de los hombres, el médico inserta un hisopo delgado en el extremo del pene para obtener
+una muestra de la uretra. En algunos casos, el médico te hará un hisopado del ano.
+Si fuiste tratado por una infección inicial de clamidia, debes realizarte otro análisis en
+aproximadamente tres meses.
+
+1524
+
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+Josías Salvador Armijos Guevara, Oriana Marcela Gallego Ramírez, Rodolfo José de Jesús Castilla Romero, Julián Vicente
+Cuesta Sarmiento
+
+Dom. Cien., ISSN: 2477-8818
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+
+Prevalencia de la infección genital por Chlamydia trachomatis en mujeres
+●
+
+Por regla general, análisis de una muestra de la secreción del cuello uterino, pene,
+
+garganta o recto o una muestra de orina
+Los médicos sospechan infecciones por clamidias, ureaplasmas y micoplasmas basándose en los
+síntomas, como una secreción del pene o del cuello uterino.
+En la mayoría de los casos, las infecciones por clamidias se diagnostican realizando pruebas que
+detectan el material genético exclusivo de la bacteria (ADN). Por lo general, se emplea una muestra
+de la secreción del pene o del cuello uterino, Algunas veces se le pide a la mujer que obtenga una
+muestra de su vagina empleando una torunda. Para algunos tipos de prueba se puede utilizar una
+muestra de orina. Si se dispone de una muestra de orina, se puede evitar al paciente la molestia de
+introducir una torunda en el pene o de realizar una exploración pélvica para obtener la muestra.
+Si se sospecha una infección en la garganta o en el recto, se pueden analizar muestras de estas zonas.
+La gonorrea, que suele cursar al mismo tiempo, también se diagnostica con la misma muestra.
+También suelen realizarse análisis de sangre para comprobar si hay una infección por el virus de la
+inmunodeficiencia humana (VIH) o sífilis.
+Cribado
+Dado que la infección por clamidias es muy frecuente y que muchas mujeres infectadas no presentan
+ningún síntoma, se recomienda realizar las pruebas de detección de infecciones transmisión sexual
+por clamidias y otras infecciones de a ciertos grupos de mujeres y hombres sexualmente activos.
+Las mujeres que no están embarazadas (incluidas las mujeres que mantienen relaciones sexuales
+con mujeres) son sometidas a pruebas de detección anuales si presentan características que aumentan
+su riesgo de infección:
+●
+
+Son sexualmente activas y menores de 25 años
+
+●
+
+Una enfermedad de transmisión sexual (ETS) anterior
+
+●
+
+Participación en actividades sexuales de riesgo (como tener muchas parejas sexuales,
+
+no usar preservativos con regularidad o ejercer la prostitución)
+●
+
+Tienen una pareja que participa en actividades sexuales de riesgo o que sufre una
+
+infección de transmisión sexual
+Las embarazadas se someten a pruebas de cribado durante su visita prenatal inicial. A las siguientes
+mujeres embarazadas se les vuelven a hacer pruebas de detección durante el tercer trimestre:
+●
+
+Todas las menores de 25 años
+
+●
+
+Las que tienen 25 años o más, si aumenta el riesgo de infección
+
+1525
+
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+Josías Salvador Armijos Guevara, Oriana Marcela Gallego Ramírez, Rodolfo José de Jesús Castilla Romero, Julián Vicente
+Cuesta Sarmiento
+
+Dom. Cien., ISSN: 2477-8818
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+
+Prevalencia de la infección genital por Chlamydia trachomatis en mujeres
+
+Si las mujeres embarazadas sufren una infección por clamidias, reciben tratamiento. Estas mujeres
+son examinadas nuevamente al cabo de 3 meses.
+Los hombres heterosexualmente activos no se someten a pruebas sistemáticas de detección,
+excepto si aumenta el riesgo de infección por clamidias (por ejemplo, cuando tienen varias parejas
+sexuales, cuando son pacientes en una clínica para adolescentes o para enfermedades de transmisión
+sexual [ETS] o cuando ingresan en un correccional).
+A los hombres que mantienen relaciones homosexuales se les realizan pruebas de detección
+sistemática:
+●
+
+Si son sexualmente activos: por lo menos una vez al año
+
+●
+
+Si presentan un riesgo mayor (personas con infección por VIH, múltiples parejas
+
+sexuales o una pareja que tiene múltiples parejas): cada 3 a 6 meses
+Estos hombres son evaluados tanto si usan condones como si no lo hacen. Las pruebas se realizan
+con muestras tomadas del recto, la uretra o, si se practica sexo oral, de la garganta.
+Tratamiento
+La clamidia (Chlamydia trachomatis) se trata con antibióticos. Puede que recibas una dosis única, o
+puede que necesites tomar el medicamento diariamente o varias veces al día durante cinco o 10 días.
+En la mayoría de los casos, la infección se cura en una o dos semanas. Durante ese tiempo, debes
+abstenerse de tener relaciones sexuales. Tu pareja o parejas sexuales también necesitan recibir
+tratamiento, aunque no presenten signos o síntomas. De lo contrario, la infección puede transmitirse
+entre las parejas sexuales.
+Tener clamidia o haber sido tratado por ella en el pasado no impide que la contraigas de nuevo.
+●
+
+Un antibiótico
+
+●
+
+Tratamiento simultáneo de parejas sexuales
+
+Las infecciones provocadas por clamidias, ureaplasmas y micoplasmas se tratan con uno de los
+siguientes antibióticos:
+●
+
+Una sola dosis del antibiótico azitromicina tomado por vía oral
+
+●
+
+Doxiciclina, eritromicina, levofloxacino u ofloxacino, por vía oral durante 7 días
+
+Las mujeres embarazadas reciben tratamiento con azitromicina.
+Si es posible que exista gonorrea, se inyecta además un antibiótico, como ceftriaxona, por vía
+intramuscular para tratar la gonorrea. Este tratamiento es necesario porque los síntomas de ambas
+infecciones son similares y porque muchas personas sufren ambas infecciones a la vez.
+
+1526
+
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+Josías Salvador Armijos Guevara, Oriana Marcela Gallego Ramírez, Rodolfo José de Jesús Castilla Romero, Julián Vicente
+Cuesta Sarmiento
+
+Dom. Cien., ISSN: 2477-8818
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+
+Prevalencia de la infección genital por Chlamydia trachomatis en mujeres
+
+Los síntomas pueden persistir o volver por una de las razones siguientes:
+●
+
+Otras infecciones que también están presentes pueden estar causando los síntomas.
+
+●
+
+Las personas pueden haberse infectado de nuevo.
+
+●
+
+Las clamidias pueden ser resistentes a los antibióticos.
+
+En estos casos, se repiten las pruebas de detección de la infección por clamidias y la gonorrea, y a
+veces se hacen pruebas adicionales para detectar otras posibles infecciones. Entonces las personas
+son tratadas con azitromicina o, si la azitromicina fue utilizada antes y resultó ineficaz, con
+moxifloxacino.
+Las parejas deben recibir tratamiento al mismo tiempo. Las personas infectadas y sus parejas sexuales
+deben abstenerse de mantener relaciones sexuales hasta que hayan recibido tratamiento durante 1
+semana como mínimo.
+El riesgo de padecer otra infección por clamidias u otras infecciones de transmisión sexual durante
+los siguientes 3 o 4 meses es lo bastante alto para que se deban volver a realizar pruebas de detección
+pasado ese tiempo.
+Complicaciones
+En mujeres, las complicaciones de la infección por clamidias incluyen
+●
+
+Cicatrización de las trompas de Falopio
+
+●
+
+Infección de las trompas de Falopio (salpingitis)
+
+●
+
+Infección de la membrana que recubre la pelvis y la cavidad abdominal (peritonitis)
+
+●
+
+Infección de la zona que rodea al hígado
+
+La infección se puede extender hasta el aparato reproductor y puede infectar los conductos que
+conectan los ovarios con el útero (trompas de Falopio). Esta infección, denominada salpingitis,
+produce un fuerte dolor en la parte inferior del abdomen. En algunas mujeres, la infección se extiende
+hacia el recubrimiento de la pelvis y de la cavidad abdominal (peritoneo), lo que provoca peritonitis.
+La peritonitis causa un dolor más intenso en la zona inferior del abdomen. Estas infecciones se
+incluyen dentro de la denominada enfermedad inflamatoria pélvica. A veces la infección se concentra
+en la zona alrededor del hígado, en la parte superior derecha del abdomen, causando dolor, fiebre y
+vómitos (llamado síndrome de Fitz-Hugh-Curtis).
+Estas complicaciones incluyen dolor abdominal crónico y cicatrices en las trompas de Falopio. Las
+cicatrices pueden causar esterilidad y embarazos ectópicos.
+En hombres, las complicaciones de la infección por clamidias incluyen
+
+1527
+
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+Josías Salvador Armijos Guevara, Oriana Marcela Gallego Ramírez, Rodolfo José de Jesús Castilla Romero, Julián Vicente
+Cuesta Sarmiento
+
+Dom. Cien., ISSN: 2477-8818
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+
+Prevalencia de la infección genital por Chlamydia trachomatis en mujeres
+●
+
+Infección del epidídimo (epididimitis)
+
+●
+
+Estrechamiento (estenosis) de la uretra
+
+Las infecciones por clamidias pueden provocar una infección del epidídimo (epididimitis). El
+epidídimo es el conducto en forma de espiral que se observa en la parte superior de cada testículo
+(véase la figura Trayectoria desde el pene al epidídimo). Esta infección causa una hinchazón dolorosa
+en el escroto en uno o en ambos lados. La infección puede provocar un estrechamiento del paso de la
+orina a través del pene (uretra) debido a la cicatrización.
+En ambos sexos, las complicaciones de las infecciones por clamidias son
+●
+
+Infección de la membrana que cubre la esclerótica (conjuntivitis)
+
+●
+
+Artritis reactiva
+
+En ocasiones, las infecciones genitales por clamidias causan una inflamación de las articulaciones
+conocida como artritis reactiva (anteriormente conocida como síndrome de Reiter). En la mayoría de
+los casos, la artritis reactiva afecta solo una o algunas articulaciones al mismo tiempo. Las rodillas y
+otras articulaciones de las piernas son las que suelen resultar afectadas con mayor frecuencia. Se cree
+que la inflamación se debe más a una reacción inmunitaria a la infección genital que a la propagación
+de la infección a las articulaciones. Los síntomas comienzan, de modo característico, de 1 a 3 semanas
+después de la infección. La artritis reactiva a veces causa otros problemas, tales como alteraciones en
+la piel de los pies, problemas oculares o inflamación de la uretra.
+En los recién nacidos, las complicaciones de las infecciones por clamidias son
+●
+
+Conjuntivitis
+
+●
+
+Neumonía
+
+Los recién nacidos pueden resultar infectados por Chlamydia durante el parto si su madre presenta
+una infección del cuello uterino por clamidias. En los recién nacidos, la infección puede provocar
+neumonía o conjuntivitis (conjuntivitis neonatal).
+Prevención
+La forma más segura de prevenir la infección por clamidia es abstenerse de las actividades sexuales.
+Sin llegar a eso, puedes hacer lo siguiente:
+Utilizar preservativos. Usa un preservativo masculino de látex o un preservativo femenino de
+poliuretano en cada contacto sexual. Los preservativos que se utilizan de la forma adecuada durante
+cada encuentro sexual reducen, pero no eliminan, el riesgo de infección.
+
+1528
+
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+Josías Salvador Armijos Guevara, Oriana Marcela Gallego Ramírez, Rodolfo José de Jesús Castilla Romero, Julián Vicente
+Cuesta Sarmiento
+
+Dom. Cien., ISSN: 2477-8818
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+
+Prevalencia de la infección genital por Chlamydia trachomatis en mujeres
+
+Limita la cantidad de parejas sexuales. Si tienes múltiples parejas sexuales, te expones a un alto
+riesgo de contraer clamidia y otras infecciones de transmisión sexual.
+Hazte exámenes de detección periódicos. Si eres sexualmente activo, particularmente si tienes
+múltiples parejas, consulta con tu médico sobre la frecuencia con la que debes examinarte para
+detectar clamidia y otras infecciones de transmisión sexual.
+Evita las duchas vaginales. Las duchas vaginales disminuyen la cantidad de bacterias beneficiosas
+presentes en la vagina, lo que puede aumentar el riesgo de infección.
+La única forma segura de prevenir la clamidia es no tener sexo vaginal, anal u oral. El uso correcto
+de los condones de látex reduce en gran medida, aunque no elimina, el riesgo de contraer y contagiar
+la clamidia. Si su pareja es alérgica al látex, puede ayudar usar condones de poliuretano.
+Prevalencia
+La infección por la bacteria Chlamydia trachomatis es la infección de transmisión sexual (ITS)
+bacteriana más frecuente en todo el mundo, y se da con mayor frecuencia en adultos jóvenes
+sexualmente activos. La clamidiosis se transmite al tener relaciones sexuales vaginales, anales u
+orales sin protección con una persona con infección por clamidias, o bien de madre a hijo durante el
+parto.
+Aproximadamente 70% de las mujeres y 50% de los hombres no muestran ningún síntoma de las
+infecciones genitales debidas a clamidias. C. trachomatis causa cervicitis en las mujeres y uretritis en
+los hombres, así como infecciones extragenitales, como las infecciones rectales u orofaríngeas. La
+infección por clamidias no tratada puede causar complicaciones graves en el aparato reproductor
+superior, principalmente en las mujeres jóvenes, como embarazo ectópico, inflamación de las trompas
+de Falopio o infertilidad. La infección materna comporta resultados adversos graves en los recién
+nacidos, como parto prematuro, peso bajo al nacer, infección ocular, infección nasofaríngea o
+neumonía. El diagnóstico de la clamidiosis se basa generalmente en los análisis de laboratorio, con
+el empleo de muestras de orina o de muestras obtenidas con hisopos. La infección por clamidias no
+complicada puede curarse fácilmente con antibióticos y generalmente se resuelve en días o semanas.
+El linfogranuloma venéreo (LGV) es una enfermedad que consiste en una úlcera genital (EUG) que
+afecta el tejido linfático y es causada por la cepa (serovariedad) más invasora de Chlamydia
+trachomatis. Tiene una prevalencia cada vez mayor en los hombres que tienen relaciones sexuales
+con hombres (HSH) en algunos entornos.
+
+1529
+
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+Josías Salvador Armijos Guevara, Oriana Marcela Gallego Ramírez, Rodolfo José de Jesús Castilla Romero, Julián Vicente
+Cuesta Sarmiento
+
+Dom. Cien., ISSN: 2477-8818
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+
+Prevalencia de la infección genital por Chlamydia trachomatis en mujeres
+
+La Organización Mundial de la Salud (OMS) estima que en el 2012 hubo 131 millones de nuevos
+casos de infección por clamidias en adultos y jóvenes de 15 a 49 años en todo el mundo, con alrededor
+de 128 millones de casos ya existentes. El número más alto de casos se registra en la Región de las
+Américas y en la Región del Pacífico Occidental de la OMS.
+Chlamydia trachomatis es el agente causal de la infección de transmisión sexual de origen bacteriano
+más frecuente en el mundo. Se estima que ocurren 131 millones de casos nuevos cada año. Esta
+infección se transmite durante las relaciones sexuales vaginales, orales o anales, y de madre a hijo
+durante el parto vaginal. En el 70 % de los casos en mujeres y en el 50 % en hombres, la infección
+transcurre de manera asintomática y permanece clínicamente indetectable.
+En la mujer, C. trachomatis puede producir cervicitis, endometritis y salpingitis, y dejar secuelas a
+largo plazo como enfermedad inflamatoria pélvica, embarazo ectópico e infertilidad. La duración de
+la infección genital no tratada y sin complicaciones es aproximadamente de un año, con una tasa de
+resolución espontánea de 11 a 44 %. Sin embargo, el 40 % de las mujeres con infección por
+C. trachomatis no tratadas desarrollan enfermedad inflamatoria pélvica y, de ellas, el 20 % desarrolla
+infertilidad, el 18 % experimenta dolor debilitante crónico en la pelvis, y el 9 % presenta embarazos
+ectópicos.
+Debido a la gran proporción de pacientes asintomáticas y a las graves secuelas de la infección, la
+vigilancia epidemiológica es importante. No obstante, la información epidemiológica es limitada y
+son pocos los estudios que han explorado los factores de riesgo para dicha infección. En un estudio
+en mujeres asintomáticas, se detecta mediante métodos microbiológicos una prevalencia de C.
+trachomatis del 25 % en mujeres que asistían a consulta ginecológica regular. En otro estudio más
+reciente entre estudiantes de secundaria de la misma ciudad, se tomaron muestras de orina de hombres
+y mujeres sexualmente activos y se detectó mediante métodos moleculares una prevalencia, también
+se encuentra que mujeres asintomáticas seropositivas para anticuerpos IgG, con infección vaginal de
+la misma, el genoma de C. trachomatis, lo cual resalta la importancia de este agente en la población
+colombiana.
+A pesar de su importancia, apenas se han realizado estudios de vigilancia. Se evalúa la presencia de
+esta infección en mujeres con cervicitis y se encontró una positividad del 20,0 %. Además, se
+encuentra que la presencia de anticuerpos IgG en mujeres con factores de riesgo para infección de
+transmisión sexual fue de 16,9 %. Estos datos sugieren que existe una proporción importante de
+
+1530
+
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+Josías Salvador Armijos Guevara, Oriana Marcela Gallego Ramírez, Rodolfo José de Jesús Castilla Romero, Julián Vicente
+Cuesta Sarmiento
+
+Dom. Cien., ISSN: 2477-8818
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+
+Prevalencia de la infección genital por Chlamydia trachomatis en mujeres
+
+mujeres asintomáticas infectadas con C. trachomatis en riesgo de desarrollar posibles complicaciones
+en caso de no recibir tratamiento.
+Por otra parte, se sabe poco sobre la relación epidemiológica de esta infección con otras de
+transmisión sexual muy frecuente en el país, como la causada por el virus del papiloma humano
+(VPH). El estudio de dicha asociación es de gran importancia, ya que, según información previa, la
+infección persistente de C. trachomatis genera inflamación crónica y, eventualmente, metaplasia, por
+lo cual se considera un factor de riesgo para el desarrollo de cáncer de cuello uterino. En estudios
+anteriores, se detecta C. trachomatis mediante técnicas moleculares, infectadas con VPH, y se
+establece una frecuencia de la infección. Se observó, además, que las mujeres positivas para C.
+trachomatis generalmente estaban infectadas con múltiples genotipos del HPV
+A pesar de la importancia de este agente, se tiene poca información sobre los posibles factores de
+riesgo y las conductas sexuales que favorecerían la presencia de la infección. En este contexto, en el
+presente estudio se buscó determinar la presencia de la infección por C. trachomatis en mujeres
+asintomáticas, su prevalencia y los factores de riesgo asociados, así como evaluar su asociación con
+la infección por VPH.
+
+Conclusión
+La infección genital por Chlamydia es uno de los problemas de salud pública que dificultan el
+diagnostico precoz seguimiento de los casos ya que por la baja información que se tiene de dicha
+patología y sus consecuencias los pacientes no toman en cuentan la severidad del asunto que conlleva
+a problemas de salud mayores involucran su medio por lo que se está diseñado un programa de
+búsqueda activa de casos, así como una notificación de contactos sexuales, que reduzcan el
+incremento de la infección. Actualmente, la captación sea hace cuesta arriba y las actividades
+dirigidas a disminuir la prevalencia de la enfermedad deben llegar a un mayor número de la población.
+Es por ello que es menos costoso prevenir las enfermedades de transmisión sexual y sus graves
+secuelas y es el camino más seguro para evitar infectocontagios a otras personas.
+La prevalencia de la infección por Chlamydia, tiene un porcentaje considerable tomada de los
+diferentes centros de salud de prevención de ETS, a pesar de que en su mayoría no acuden a las
+debidas consultas y no son captados y reportados lo que acarrea un diagnóstico y tratamiento fuera
+de tiempo y por ende la presentación de complicaciones a mediano y largo plazo, así como también
+en muchos casos el contagio a otras personas y la reinfección de la misma.
+
+1531
+
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+Josías Salvador Armijos Guevara, Oriana Marcela Gallego Ramírez, Rodolfo José de Jesús Castilla Romero, Julián Vicente
+Cuesta Sarmiento
+
+Dom. Cien., ISSN: 2477-8818
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+
+Prevalencia de la infección genital por Chlamydia trachomatis en mujeres
+
+La OPS/OMS explica que las ITS en la actualidad siguen las directrices de la Estrategia mundial del
+sector de la salud sobre las infecciones de transmisión sexual, 2016-2021. En el Plan de acción para
+la prevención y el control de las infecciones de transmisión sexual, describen las líneas de acción que
+deben aplicar tanto los Estados Miembros como la Oficina Sanitaria Panamericana para mejorar y
+ampliar la prevención y el control de la infección las ITS en la Región de las Américas. En el 2016,
+la OMS hizo públicas las Directrices para el tratamiento de Chlamydia trachomatis, que proporcionan
+recomendaciones actualizadas sobre el tratamiento de las infecciones comunes causadas por
+Chlamydia trachomatis basadas en la evidencia más reciente disponible.
+
+Referencias
+1. Frontela N M, Rodríguez M Y, Varela L O, Varela V L, Martínez V F. Infección por
+Chlamydia trachomatis en mujeres cubanas en edad reproductiva. Rev Cubana Endocrinol 17
+(2): 2006.
+2. Penney, G. C., Brace, V., Cameron, S., and Tucker, J. An evaluation of the impact of a national
+health demonstration project on testing and management for Chlamydia trachomatis
+infections in two regions of Scotland. [Journal]. Public Health 119, 1031-1038, 2005.
+3. Eggert-Kruse W, Rohr G, Demirakca T, Rusu R, Naher H, Petzoldt D, Runnebau B
+.Chlamydial serology in 1303 asymptomatic subfertile couples. Human Reproduction, 12,
+1464-1475, 1997.
+4. Boulanger JC, Hamdad F, Orfila J. Chlamydia trachomatis urogenital infections in women.
+Best diagnostic approaches. Gynecol Obstet Fertil.32(12):1064-74, 2004.
+5. Varela JA, Otero L, Junquera ML, Melon S, del Valle A, Vazquez F. Research on sexually
+transmitted infections in asymptomatic heterosexual males whose partners have cervical
+intraepithelial neoplasia. Actas Dermosifiliogr 97(5):319-22, 2006.
+6. Guerra-Infante F.M., Tapia-Yanez J.R., Lopez-Hurtado M., Flores-Medina S., Diaz-Garcia
+F.J. Infección por Chlamydia trachomatis en varones y su asociación con las alteraciones
+ginecológicas de su compañera sexual. Rev Invest Clin. 57: 406-14, 2005.
+7. Tortolero I., Sanz Valoración de una técnica de detección de anticuerpos anti-chlamydia
+trachomatis en suero y en plasma seminal en pacientes con parámetros sospechosos de
+Inflamación/Infección del tracto urogenital (Datos no publicados
+
+1532
+
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+Josías Salvador Armijos Guevara, Oriana Marcela Gallego Ramírez, Rodolfo José de Jesús Castilla Romero, Julián Vicente
+Cuesta Sarmiento
+
+Dom. Cien., ISSN: 2477-8818
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+
+Prevalencia de la infección genital por Chlamydia trachomatis en mujeres
+
+8. Chlamydia and Apoptosis: Life and Death Decisions of an Intracellular Pathogen. Gerald
+Byrne y David Ojcius. Nature Reviews Microbiology, vol 2, N° 10, pág. 802, 2004.
+9. Tortolero I, Arata Bellabarba G, Osuna C J, Gómez Pérez R , Regadera J. Estrés oxidativo y
+función espermática Rev Venez Endocrinol Metabol 3: 12-19; 2005.
+10. Brocklehurst P, Rooney G. Interventions for treating genital chlamydia trachomatis infection
+in pregnancy (Cochrane Review) In : The Cochrane Library, Issue 3,2002. Oxford :Update
+Software.
+11. World Health Organization. WHO guidelines for the treatment of Chlamydia trachomatis.
+Geneva: World Health Organization; 2016. p. 6-8.
+12. Centers for Disease Controls and Prevention. Chlamydia. Fecha de consulta: 10 de marzo de
+2019. Disponible en:Disponible en:https://www.cdc.gov/std/chlamydia/default.htm
+13. Heredia R, Agudelo CI, Castañeda E. Prevalencia de los agentes etiológicos de la vaginitis y
+la cervicitis en pacientes de consulta ginecológica general. Acta Méd Colomb. 1990;15:92-9.
+14. Paredes MC, Gómez YM, Torres AM, Fernández M, Tovar MB. Prevalencia de Chlamydia
+trachomatis y Neisseria gonorrhoeae en adolescentes de colegios de la zona Sabana Centro de
+Cundinamarca,
+
+Colombia.
+
+Biomédica.
+
+2015;35:314-24.
+
+https://doi.org/10.7705/biomedica.v35i3.2398
+15. Cardona-Arias JA, Gallego-Atehortúa LH, Ríos-Osorio LA. Infección por Chlamydia
+trachomatis en pacientes de una institución de salud de Bogotá y Medellín, 2012-2015. Rev
+Chil Infectol. 2016;33:513-8. https://doi.org/10.4067/S0716-10182016000500004
+16. Ángel-Müller E, Rodríguez A, Núñez-Forero LM, Moyano LF, González P, Osorio E, et al.
+Prevalencia y factores asociados a la infección por C. trachomatis, N. gonorrheae, T. vaginalis,
+C. albicans, sífilis, VIH y vaginosis bacteriana en mujeres con síntomas de infección vaginal
+en tres sitios de atención de Bogotá, Colombia, 2010. Rev Colomb Obstet Ginecol.
+2012;63:14-24. https://doi.org/10.18597/rcog.199
+17. Robledo OJ, Trujilio LF, Arboleda G, Trujillo H, Mejía GI. Chlamydia Trachomatis en
+síndromes infecciosos de mujeres en Medellín Colombia, Suramérica. Rev Colomb Obstet
+Ginecol . 1987;38:175-87https://doi.org/10.18597/rcog.2064
+18. Deluca GD, Basiletti J, Schelover E, Vásquez ND, Alonso JM, Marín HM, et al. Chlamydia
+trachomatis as a probable cofactor in human papillomavirus infection in aboriginal women
+
+1533
+
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+Josías Salvador Armijos Guevara, Oriana Marcela Gallego Ramírez, Rodolfo José de Jesús Castilla Romero, Julián Vicente
+Cuesta Sarmiento
+
+Dom. Cien., ISSN: 2477-8818
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+
+Prevalencia de la infección genital por Chlamydia trachomatis en mujeres
+
+from
+
+northeastern
+
+Argentina.
+
+Brazilian
+
+J
+
+Infect
+
+Dis.
+
+2011;15:567-72.
+
+https://doi.org/10.1016/s1413-8670f1D70252-5
+19. Calil LN, Igansi CN, Meurer L, Edelweiss MI, Bozzetti MC. Chlamydia trachomatis and
+human papillomavirus coinfection: Association with p16INK4a and Ki67 expression in
+biopsies of patients with pre-neoplastic and neoplastic lesions. Braz J Infect Dis. 2011;15:12631. https://dbi.org/10.1016/s1413-8670(11)70157-x
+20. Quiñónez-Calvache EM, Ríos-Chaparro DI, Ramírez JD, Soto-De León SC, Camargo M, RíoOsDina L Del, et al. Chlamydia trachomatis frequency in a cohort of HPV-infected Colombian
+women. PLoS One. 2016;11:1-14.https://doi.org/10.1371/joumal.Done.0147504
+21. Sánchez GI, Kleter B, Gheit T, van Doorn L-J, de Koning MNC, de Sanjosé S, et al. Clinical
+evaluation of Dolymerase chain reaction reverse hybridization assay for detection and
+identification of human DaDillomavirus tyDe 16 variants. J Clin Virol. 2011;51:165-9.
+https://doi.org/10.1016/i.icv.2011.03.013
+22. Molano M, van den Brule A, Plummer M, WeiderDass E, Posso H, Arslan A, et al.
+Determinants of clearance of human DaDillomavirus infections in Colombian women with
+normal cytology: A DoDulation-based, 5-year follow-uD study. Am J EDidemiol.
+2003;158:486- 94.https://doi.org/10.1093/aie/kwg171
+23. Petrovay F, Balla E, Nemeth I, Gonczol E. GenotyDing of Chlamydia trachomatis from the
+endocervical specimens of high-risk women in Hungary. J Med Microbiol. 2009;58:760-4.
+https://doi.org/10.1099/imm.0.008607-0
+24. van den Brule AJ, Pol R, Fransen-Daalmeijer N, Schouls LM, Meijer CJ, Snijders PJ.
+GP5+/6+ PCR followed by reverse line blot analysis enables rapid and high-throughput
+identification of human papillomavirus genotypes. J Clin Microbiol. 2002;40:779-87.
+https://doi.org/10.1128/icm.40.3.779-7872002
+25. Franceschi S, Smith JS, van den Brule A, Herrero R, Arslan A, Anh P-T-H, et al. Cervical
+infection with Chlamydia trachomatis and Neisseria gonorrhoeae in women from ten areas in
+four
+
+continents.
+
+A
+
+cross-sectional
+
+study.
+
+Sex
+
+Transm
+
+Dis.
+
+2007;34:563-9.
+
+https://doi.org/10.1097/01.olq.000025841766619.0e
+26. Cooksey CM, Berggren EK, Lee J. Chlamydia trachomatis Infection in minority adolescent
+women:
+
+A
+
+public
+
+health
+
+challenge.
+
+Obstet
+
+Gynecol
+
+Surv.
+
+2010;65:729-35.
+
+https://doi.org/10.1097/0GX.0b013e3182110204
+
+1534
+
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+Josías Salvador Armijos Guevara, Oriana Marcela Gallego Ramírez, Rodolfo José de Jesús Castilla Romero, Julián Vicente
+Cuesta Sarmiento
+
+Dom. Cien., ISSN: 2477-8818
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+
+Prevalencia de la infección genital por Chlamydia trachomatis en mujeres
+
+27. Fernández-Benítez C, Meiuto-López P, Otero-Guerra L, Margolles-Martins MJ, Suárez-Leiva
+P, Vázquez F, et al. Prevalence of genital Chlamydia trachomatis infection among young men
+and women in Spain. BMC Infect Dis. 2013;13:388.https://doi.org/10.1186/1471-2334-13388
+28. Kohli R, Konya WP, Obura T, Stones W, Revathi G. Prevalence of genital chlamydia
+infection in urban women of reproductive age, Nairobi, Kenya. BMC Res Notes. 2013;44:6.
+https://doi.org/10.1186/1756-0500-6-44
+29. Novak M, Novak D. Risk factors for Chlamydia trachomatis infection among users of an
+Internet-based
+
+testing
+
+service
+
+in
+
+Sweden.
+
+Sex
+
+Reprod
+
+Healthc.
+
+2013;4:23-7.
+
+https://doi.org/10.1016Zi.srhc.2012.11.004
+30. Yeoh CA, Chan CL, Chin CC, Tan WC. Prevalence and risk factors of genitourinary
+Chlamydia trachomatis infection among patients attending sexually transmitted disease
+clinics in northern Malaysia. Med J Malaysia. 2020;75:103-9.
+31. Garland SM, Subasinghe AK, Ahmed N, Jayasinghe Y, Marceglia A. Long-term trends of
+Chlamydia trachomatis in a clinic population at the Royal Women's Hospital, Melbourne.
+Aust New Zeal J Obstet Gynaecol. 2020;60:149-53. https://doi.org/10.1111/aio.13106
+32. Witkin SS, Minis E, Athanasiou A, Leizer J, Linhares IM. Chlamydia trachomatis: The
+persistent pathogen. Clin Vaccine Immunol. 2017;24:1-9.https://doi.org/10.1128/CVI.0020317
+33. Louv WC, Austin H, Perlman J, Alexander WJ. Oral contraceptive use and the risk of
+chlamydial and gonococcal infections. Am J Obstet Gynecol. 1989;160:396-402.
+https://doi.org/10.1016/0002-9378(89)90456-0
+34. Molano M, Meiier C, Posso H, Arslan A, Muñoz N. Infecciones por Chlamydia trachomatis
+y su asociación con el virus del papiloma humano : un estudio de seguimiento. Revista
+Colombiana de Cancerología. 2004;8:5-12.
+35. Haar K, Bremer V, Houareau C, Meyer T, Desai S, Thamm M, et al. Risk factors for
+Chlamydia
+
+trachomatis infection in adolescents: Results from
+
+populationbased survey in Germany,
+
+a representative
+
+2003-2006. Euro Surveill. 2013;18:20562.
+
+https://doi.org/10.2807/1560-7917es2013.18.34.20562
+
+1535
+
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+Josías Salvador Armijos Guevara, Oriana Marcela Gallego Ramírez, Rodolfo José de Jesús Castilla Romero, Julián Vicente
+Cuesta Sarmiento
+
+Dom. Cien., ISSN: 2477-8818
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+
+Prevalencia de la infección genital por Chlamydia trachomatis en mujeres
+
+36. De Sanjosé S, Muñoz N, Bosch FX, Reimann K, Pedersen NS, Orfila J, et al. Sexually
+transmitted agents and cervical neoplasia in Colombia and Spain. Int J Cancer. 1994;56:35863. https://doi.org/10.1002/iic.2910560311
+37. Safaeian M, Quint K, Schiffman M, Rodríguez AC, Wacholder S, Herrero R, et al. Chlamydia
+trachomatis and risk of prevalent and incident cervical premalignancy in a population-based
+cohort. J Natl Cancer Inst . 2010;102:1794-804. https://doi.org/10.1093/inci/diq436
+38. Wallin K-L, Wiklund F, Luostarinen T, Ängström T, Anttila T, Bergman F, et al. A
+populationbased prospective study of Chlamydia trachomatis infection and cervical
+carcinoma. Int J Cancer . 2002;101:371-4. https://doi.org/10.1002/iic.10639
+
+©2022 por los autores. Este artículo es de acceso abierto y distribuido según los términos y condiciones de la licencia Creative Commons
+Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)
+(https://creativecommons.org/licenses/by-nc-sa/4.0/).|
+
+1536
+
+Vol. 8, núm. 2, Abril-Junio, 2022, pp. 1518-1536
+Josías Salvador Armijos Guevara, Oriana Marcela Gallego Ramírez, Rodolfo José de Jesús Castilla Romero, Julián Vicente
+Cuesta Sarmiento
+
+
